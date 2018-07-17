@@ -1,14 +1,14 @@
 # Linux-GUI
 
-## Download Beta here
-```
-wget http://bitcoinnero.org/download/linux-gui-v1.0.tar
-tar -xvf linux-gui-v1.0.tar
-rm linux-gui-v1.0.tar
-cd linux-gui-v1.0
-```
+## Download
+
+https://btcnero.org/download/linux-gui
 
 ## Run Wallet
 ```
-./bitcoinnero
+To open the wallet you will probably need to open the permissions:
+-click right on BTCNERO
+-Properties
+-Permissions
+-Allow executing file as program
 ```
