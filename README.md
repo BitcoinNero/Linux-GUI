@@ -1,14 +1,12 @@
 # Linux-GUI
 
-## Download
-
-https://btcnero.org/download/linux-gui
-
-## Run Wallet
+## By Command
 ```
-To open the wallet you will probably need to open the permissions:
--click right on BTCNERO
--Properties
--Permissions
--Allow executing file as program
+wget http://download.btcnero.org/bitcoinnero
+chmod u+x bitcoinnero
+```
+## By Desktop
+```
+Download http://download.btcnero.org/bitcoinnero
+Right Click + Permission + Allow as executable
 ```
