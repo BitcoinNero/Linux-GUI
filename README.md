@@ -12,3 +12,10 @@ Download http://download.btcnero.org/linux-gui.zip
 unzip
 Right Click + Permission + Allow as executable
 ```
+
+## Blockchain Import
+
+Download http://download.btcnero.org/blockchain.zip
+```
+Unzip Files on root
+```
